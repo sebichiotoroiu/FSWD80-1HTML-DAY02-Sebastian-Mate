@@ -1,0 +1,26 @@
+.left { 
+	border-style:solid;
+	border-color: green;
+	border-with:5px ;
+
+}
+.right { 
+	border-style:double;
+    border-with: 5px ;
+}
+#third p {
+	display: none;
+}
+h1 {
+	display: none;
+}
+
+#second div {
+	visibility: hidden;
+}
+#second div img {
+	visibility: visible;
+}
+#first {
+	font-size: 30px;
+}
