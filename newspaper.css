@@ -1,0 +1,42 @@
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #0099ff;
+  color: white;
+  font-size: 30px;
+}
+
+.sidenav {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: darkgrey ;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: white;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: lightgrey;
+}
+
+footer {
+	display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+	margin: 0px;
+}
