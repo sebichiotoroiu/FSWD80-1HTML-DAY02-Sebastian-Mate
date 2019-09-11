@@ -1,0 +1,45 @@
+header {
+	background-color: orange;
+	height: 200px;
+	max-width: 150%; 
+	text-align: center;
+	color: black;
+}
+h1 {
+	position: center;
+}
+
+
+
+p {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 50%;
+	margin-left: 10px;
+	text-align: justify;
+}
+figure  {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 50%;
+	margin-left: 5px;
+	float:left;
+}
+
+figure img {
+	width: 100%;
+}
+
+main {
+    left: 500px;
+    top: 50%;
+    margin-left:auto;
+margin-right:auto;}
+
+section{margin-left:0;}
+footer {
+	text-align: center;
+	margin-left:auto;
+margin-right:auto;
+display: table;
+}
